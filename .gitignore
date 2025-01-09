@@ -1,6 +1,5 @@
 helper/db.js
 node_modules
-.env
 run.js
 blocks.js
 historical-data.js
@@ -8,3 +7,4 @@ historical-data.js
 yarn.lock
 .DS_Store
 .vscode
+config.bat
